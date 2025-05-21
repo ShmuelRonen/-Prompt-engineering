@@ -14,14 +14,12 @@ A majestic red dragon flying over a medieval castle at sunset
 
 ## חלק 2: מבנה ותחביר של פרומפט אפקטיבי 
 - **סדר אופטימלי של מרכיבים**:
-  1. נושא עיקרי (מה רואים בתמונה)
-  2. תיאורים ותכונות של הנושא
-  3. סגנון אמנותי והשראה
-  4. פרטים טכניים
-
+  - נושא עיקרי (מה רואים בתמונה)
+  - תיאורים ותכונות של הנושא
+  - סגנון אמנותי והשראה
+  - פרטים טכניים
 - **חשיבות הפסיקים ונקודות-פסיקים** בהפרדת מושגים
 - **שימוש בסוגריים** להדגשת חשיבות או קבוצות מושגים
-
 ### דוגמה למבנה פרומפט מתקדם:
 ```
 Subject: medieval knight in armor; 
@@ -85,53 +83,9 @@ bad anatomy, bad proportions, blurry, cropped, cross-eyed, deformed, disfigured,
 3. ניקוי תוצאות באמצעות negative prompts
 4. איטרציות על אותו רעיון עם שינויים עדינים
 
-# מערך שיעור: יסודות Prompt Engineering למודל Flux ב-ComfyUI (30 דקות)
 
-## פתיחה (3 דקות)
-- ברכות והצגת הנושא: "Prompt Engineering למודל Flux"
-- הסבר קצר על ייחודיות Flux: מודל שאינו משתמש בפרומפט שלילי
-- מטרות השיעור: רכישת כלים לכתיבת פרומפטים אפקטיביים ב-Flux
 
-## חלק 1: יסודות כתיבת פרומפט למודל Flux (5 דקות)
-- **המבנה הבסיסי של פרומפט ב-Flux**:
-  - דגש על תיאור חיובי ומדויק
-  - חשיבות הבהירות והתמציתיות
-- **ההבדל המהותי**: בניגוד למודלים אחרים, Flux מתמקד רק במה שאנחנו רוצים לראות
-
-### דוגמה לפרומפט בסיסי ב-Flux:
-```
-A majestic red dragon flying over a medieval castle at sunset, detailed scales, fire breath, atmospheric lighting
-```
-
-## חלק 2: אסטרטגית מבנה אופטימלי לפרומפט Flux (7 דקות)
-- **סדר מומלץ של מרכיבים**:
-  1. נושא עיקרי (Subject)
-  2. תיאורים והקשר (Context)
-  3. סגנון וטון (Style)
-  4. פרטים טכניים (Technical aspects)
-
-- **שימוש בפסיקים ונקודות-פסיקים** להפרדה ברורה בין חלקי הפרומפט
-
-### דוגמה למבנה פרומפט Flux מיטבי:
-```
-Portrait of an elderly craftsman; working in traditional workshop, surrounded by woodworking tools; dramatic side lighting, detailed textures; cinematic composition, 8k, detailed
-```
-
-## חלק 3: משקלים וחיזוקים בפרומפט Flux (8 דקות)
-- **שימוש במשקלים** להדגשת אלמנטים חשובים
-- **סינטקס משקלים ב-Flux**: דגש על הסוגריים והמספרים
-- **אסטרטגית איזון**: הימנעות מהגזמה במשקלים שגורמת לעיוותים
-
-### דוגמאות למשקלים ב-Flux:
-```
-A (detailed:1.2) cyberpunk cityscape, (neon lights:1.3), towering skyscrapers, (flying vehicles:1.1), rainy atmosphere
-```
-
-```
-(Ethereal landscape:1.2) with (floating islands:1.3), (waterfalls:1.1), lush vegetation, (sunset lighting:1.4), fantasy atmosphere
-```
-
-## חלק 4: טכניקות מתקדמות ייחודיות ל-Flux (7 דקות)
+## חלק 7: טכניקות מתקדמות ייחודיות ל-Flux 
 - **מילות מפתח אפקטיביות** במיוחד עבור Flux
 - **שימוש בהכוונה חיובית** במקום שלילית
 - **פתרונות לבעיות נפוצות**: כיצד להשיג תוצאות נקיות ללא פרומפט שלילי
@@ -146,12 +100,12 @@ Botanical illustration of exotic flowers, (precise details:1.3), (scientific acc
 (Macro photography:1.3) of morning dew on spider web, (crystal clear droplets:1.4), natural sunlight, soft bokeh background, (sharp focus on water drops:1.2), photorealistic, professional nature photography
 ```
 
-## עבודה מעשית: יישום בזמן אמת ב-ComfyUI (5 דקות)
+## עבודה מעשית: יישום בזמן אמת ב-ComfyUI 
 - **הדגמה חיה** של הזנת פרומפט למודל Flux
 - **השוואת תוצאות** משינויי משקלים ומבנה
 - **טיפים להתאמת פרמטרים נוספים** עבור Flux: Settings מומלצים
 
-## סיכום וטיפים מתקדמים (5 דקות)
+## סיכום וטיפים מתקדמים 
 - **כללי זהב לפרומפט Flux מוצלח**:
   1. היה ספציפי וברור
   2. השתמש במשקלים במתינות
@@ -162,7 +116,6 @@ Botanical illustration of exotic flowers, (precise details:1.3), (scientific acc
 
 ---
 
-## תכנים נוספים לחלוקה למשתתפים:
 
 ### דף מונחי מפתח ל-Flux:
 ```
